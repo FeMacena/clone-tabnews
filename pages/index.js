@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>GITFORCE CRIMINOSO</h1>
+    return <h1>SUBIDA VERCEL</h1>
 }
 
 export default Home;
